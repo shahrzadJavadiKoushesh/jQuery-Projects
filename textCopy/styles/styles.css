@@ -12,3 +12,23 @@ body{
     text-align: center;
     padding-bottom: 15px;
 }
+
+.title{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px dashed #ccc; 
+}
+
+.textarea{
+    width: 90%;
+    resize: none;
+    border: 1px solid #acacac;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.textarea:focus{
+    outline: none;
+    border: 1px solid #797979;
+}
