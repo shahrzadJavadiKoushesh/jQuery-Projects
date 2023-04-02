@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;&display=swap");
 body{
     background-color: #0d47a1;
     direction: rtl;
@@ -31,4 +32,42 @@ body{
 .textarea:focus{
     outline: none;
     border: 1px solid #797979;
+}
+
+.btn{
+    margin-top:20px;
+    border: none;
+    padding: 10px;
+    width: 30%;
+    font-size: 18px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+.add-text{
+    background-color: #f9a825;
+}
+
+.add-text:hover{
+    background-color: #da911c;
+}
+
+.delete{
+    background-color: #b71c1c;
+}
+
+.delete:hover{
+    background-color: #8d1515;
+}
+
+.copy{
+    background-color: #2e7d32;
+}
+
+.copy:hover{
+    background-color: #1f5a22;
 }
