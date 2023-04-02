@@ -12,6 +12,7 @@ body{
     box-shadow: 0 0 20px 1px #00255e;
     text-align: center;
     padding-bottom: 15px;
+    margin-top: 60px;
 }
 
 .title{
@@ -27,6 +28,7 @@ body{
     border-radius: 5px;
     padding: 10px;
     font-size: 15px;
+    height: 200px;
 }
 
 .textarea:focus{
