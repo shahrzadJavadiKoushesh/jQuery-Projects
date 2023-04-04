@@ -9,4 +9,4 @@ textCopy -> a very simple page to add or type a text and copy it into clipboard
 
 goUpBtn -> a simple botton which fades in when you scroll down the page and scrolles the page up when clicked
 
-![image](https://github.com/shahrzadJavadiKoushesh/jQuery-Projects/blob/main/goUpBtn/gif.png)
+![](git.gif)
