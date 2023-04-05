@@ -2,7 +2,6 @@ body{
     background-color: #00796b;
 }
 
-
 .openModal {
     text-align: center;
     background-color: blue;
@@ -26,8 +25,6 @@ body{
     background-color: #002c25;
 }
 
-
-
 .modal {
     width: 600px;
     height: 400px;
@@ -48,7 +45,6 @@ body{
 .modal .image img {
     width: 200px;
 }
-
 
 .modal .form {
     width: 90%;
