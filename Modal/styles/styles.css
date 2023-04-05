@@ -3,8 +3,12 @@ body{
 }
 
 
-.container {
+.openModal {
     text-align: center;
+    background-color: blue;
+    /* display: none; */
+    margin-left: 650px;
+    margin-top: 1000px;
 }
 
 .btn {
@@ -30,7 +34,6 @@ body{
     background-color: #fff;
     margin: 0 auto;
     z-index: 99999999999;
-    
     /* display: none; */
     
     position: absolute;
@@ -66,7 +69,6 @@ body{
     width: 93%;
     padding: 5px 10px;
     background-color: #388E3C;
-    font-family: vazirNormal;
     color: #fff;
     font-size: 16px;
     border: none;
